@@ -1,2 +1,2 @@
-# iOSRepositoty
+# iOSRepository
 我的iOS Demo
